@@ -6,7 +6,7 @@
 
 - 🤝 I'm looking for help with **learning MelonLoader mod creation, specifically toward BONELAB.**
 
-- 📫 How to reach me **"yTornado_" on Discord**
+- 📫 How to reach me **"yTornado_" on Discord (I don't accept friend requests, therefore you'd have to ping me from somewhere)**
 
 - ⚡ Fun fact **I've wanted to learn programming for a few years, but it never got that far from the basics of a language because I would get stuck in the sweet tutorial hell. I also have some experience with Roblox Luau, with coding 90% of the backend of a small (now dead) game.**
 
