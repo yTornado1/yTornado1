@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **"yTornado_" on Discord**
 
-- ⚡ Fun fact **I've wanted to learn programming for a few years, but it never got that far from the basics of a language because I would get stuck in the sweet tutorial hell.**
+- ⚡ Fun fact **I've wanted to learn programming for a few years, but it never got that far from the basics of a language because I would get stuck in the sweet tutorial hell. I also have some experience with Roblox Luau, with coding 90% of the backend of a small (now dead) game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
